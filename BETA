@@ -1,4 +1,3 @@
-print("by ItzPerson")  
 local Library = loadstring(game:HttpGet("https://github.com/Robojini/Tuturial_UI/blob/main/UI_Template_1"))
 
 local Windows = Library.CreateLib("Name", "RJTheme3")
